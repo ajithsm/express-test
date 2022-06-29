@@ -1,0 +1,10 @@
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs
+***
+A module 
+const http = require("http");
+const hostname = "127.0.0.1";
+const port = 8000;
+***
+makes a program to listen
+app.listen();
+***
